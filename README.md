@@ -16,7 +16,7 @@ To help hospitals and medical facilities identify which devices are likely to ne
 - Seaborn
 
 ## Dataset
-- Source: Kaggle - Medical Device Failure Dataset (Anonymized)
+- Source: Kaggle - Medical Device Failure Dataset 
 - 4,149 medical devices (X-Ray Machines, MRI Scanners, PET Scanners, Infusion Pumps, Defibrillators, CT Scanners)
 - 13 columns including Age, Manufacturer, Maintenance Cost, Downtime, Maintenance Frequency, and Failure Event Count
 
